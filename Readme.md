@@ -42,6 +42,7 @@ window - .\<가상환경 이름>\Scripts\activate
 macOS/Linux - source <가상환경 이름>\Scripts\activate
 
 pip install -r .\requirements.txt
+```
 (오류가 발생한다면 필요한 라이브러리 직접 설치)
 ```
 ```
