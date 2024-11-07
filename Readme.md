@@ -45,7 +45,6 @@ pip install -r .\requirements.txt
 ```
 (오류가 발생한다면 필요한 라이브러리 직접 설치)
 ```
-
 라이브러리 설치 명령어
 ```
 pip install <라이브러리 이름>
@@ -55,7 +54,6 @@ pip install <라이브러리 이름>
 ModuleNotFoundError: No module named 'cv2'
 --> pip install opencv-python
 ```
-
 
 2. 코드 실행 
 ```
