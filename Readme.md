@@ -25,14 +25,13 @@ app1/
 
 ## Code 
 0. 가상환경이 없는 경우 다음 명령어로 가상환경 생성
+
 '''
 python3 -m venv <가상환경 이름> 
-
 '''
 ⬇️ e.g.
 '''
-
-python -m venv vision_agent p
+python -m venv vision_agent 
 '''
 
 1. 가상환경 활성화 및 필요한 라이브러리 설치
