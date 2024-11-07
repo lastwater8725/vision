@@ -43,8 +43,8 @@ macOS/Linux - source <가상환경 이름>\Scripts\activate
 
 pip install -r .\requirements.txt
 ```
-(오류가 발생한다면 필요한 라이브러리 직접 설치)
 ```
+(오류가 발생한다면 필요한 라이브러리 직접 설치)
 라이브러리 설치 명령어
 ```
 pip install <라이브러리 이름>
